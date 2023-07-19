@@ -1,6 +1,8 @@
 # HOKUYO LiDAR PoEAdapter
 ## はじめに
-<img src="Pic/PoE_基板ケース.jpeg" width="25%">
+
+<img src="Pic/PoE_基板ケース.jpeg" width="50%">
+
  HOKUYO LiDAR(USTシリーズ)のPoE化に関する資料です。
 ## フォルダ構成
 | フォルダ名 | 内容 |
