@@ -7,9 +7,9 @@
 ## フォルダ構成
 | フォルダ名 | 内容 |
 |:---------|:-----|
-| Pic | 画像 |
+| App | 動作確認用App Installer |
 | Eagle | Eagle回路図 |
+| Pic | 画像 |
 | stl | 基板ケースSTL |
-| App | 動作確認用App |
 ## ドキュメント
 [1-10LabBlog](Link)
